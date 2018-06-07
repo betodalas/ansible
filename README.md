@@ -1,12 +1,12 @@
 # ansible
 
-# Prereq
+**Prereq**
 
 Install Ansible
 Install aws cli
 Vpc configured
 
-# Setup:
+**Setup:**
 
 Change environments variables in ec2-vars/webservers.yml file 
 
