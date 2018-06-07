@@ -1,6 +1,6 @@
 # ansible
 
-**Prereq**
+**Pre-req**
 
 Install Ansible
 Install aws cli
